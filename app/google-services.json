@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "587715575052",
+    "firebase_url": "https://homeautomation-ddfdd-default-rtdb.firebaseio.com",
+    "project_id": "homeautomation-ddfdd",
+    "storage_bucket": "homeautomation-ddfdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587715575052:android:a9b7360c9f28527c21dd29",
+        "android_client_info": {
+          "package_name": "com.example.projectva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587715575052-7i4oc3r348hqdtbvnfb2tjbv71gjjshj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-cLT1J2xJRtb6_xoNZQJuG3XRIf0zuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587715575052-7i4oc3r348hqdtbvnfb2tjbv71gjjshj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587715575052:android:cc9dc1dff1adf6f121dd29",
+        "android_client_info": {
+          "package_name": "com.example.smartswitchcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587715575052-7i4oc3r348hqdtbvnfb2tjbv71gjjshj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-cLT1J2xJRtb6_xoNZQJuG3XRIf0zuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587715575052-7i4oc3r348hqdtbvnfb2tjbv71gjjshj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587715575052:android:fa56f24ce387105121dd29",
+        "android_client_info": {
+          "package_name": "com.example.smartswitchiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587715575052-7i4oc3r348hqdtbvnfb2tjbv71gjjshj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-cLT1J2xJRtb6_xoNZQJuG3XRIf0zuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587715575052-7i4oc3r348hqdtbvnfb2tjbv71gjjshj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
